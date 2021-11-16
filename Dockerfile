@@ -11,3 +11,4 @@ EXPOSE 8080
 
 # Run app.py when the container launches
 CMD ["python3", "app.py"]
+CMD ls
